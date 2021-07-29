@@ -1,0 +1,43 @@
+
+/* header part style */
+.honda-bg-success {
+    background-color:#264653;
+    width: 100%;
+    
+}
+.honda-bg-warning-pch {
+    background-color: #E76F51;
+    border: none;
+    color: white;
+}
+/* fetured part style */
+.bike-pra{
+    color: #E76F51;
+    
+}
+
+.fetured-img{
+    filter: grayscale(100%);
+
+}
+/* clients part style */
+.clients{
+    color: #E76F51;
+    
+}
+.fa-star.filled{
+    color: #E77C40;
+    
+}
+.fa-star.empty{
+    color: #E77C40;
+}
+.regina{
+    color: #23A6F0;
+    ;
+}
+/* frequently ask ques part style */
+.question{
+    color: #E76F51;
+
+}
